@@ -6,11 +6,11 @@ Criado pela **Prof. Ana Isabel Castillo**, este repositório oferece uma coleç�
 Este repositório explora a aplicação de métodos de análise de Fourier a Equações Diferenciais Parciais (EDPs) clássicas, como a Equação do Calor, Equação da Onda e Equação de Laplace. As soluções incluem tanto deduções analíticas quanto simulações numéricas, usando séries e transformadas de Fourier para resolver problemas de valor inicial e de contorno.
 
 ## 📚 Contents
-- [Heat Equation Problems](Heat%20Equation%20Problems.pdf)
-- [Wave Equation Problems](Wave%20Equation%20Problems.pdf)
-- [Laplace Equation Problems](Laplace%20Equation%20Problems.pdf)
+- [Heat_Equation_Problems](Heat_Equation_Problems.pdf)
+- [Wave_Equation_Problems](Wave_Equation_Problems.pdf)
+- [Laplace_Equation_Problems](Laplace_Equation_Problems.pdf)
 - [Boundary_Value_Problems](Boundary_Value_Problems.pdf)
-- [Fourier Transform Applications](Fourier%20Transform%20Applications.pdf)
+- [Fourier_Transform_Applications](Fourier_Transform_Applications.pdf)
 
 ---
 
