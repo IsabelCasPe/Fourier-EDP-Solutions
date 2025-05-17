@@ -8,6 +8,7 @@ We solve initial and boundary value problems using Fourier series, Fourier trans
 Este repositório explora a aplicação de métodos de análise de Fourier a Equações Diferenciais Parciais (EDPs) clássicas, incluindo a Equação do Calor, Equação da Onda e Equação de Laplace.
 São apresentadas soluções para problemas de valor inicial e de contorno, utilizando séries e transformadas de Fourier, com destaque para deduções analíticas e simulações numéricas.
 📚 Organização:
+
 ## Contents
 - [Heat Equation Problems.pdf](Head Equation Problems.pdf)
 - [Wave Equation Problems.pdf](Wave Equation Problems.pdf)
@@ -29,3 +30,17 @@ Como usar (se tiver código Python ou LaTeX, explicar como compilar)
 Exemplos de Gráficos.
 
 Referências científicas (livros, artigos que você usou como base)
+## Agradecimento
+Este repositório é dedicado aos meus alunos, cuja curiosidade e dedicação inspiram meu trabalho. Agradeço à comunidade acadêmica por apoiar a disseminação do conhecimento e por conectar mentes brilhantes.
+
+## 📬 Contato
+- **Autora:** Prof. Ana Isabel Castillo  
+- **Email:** [anacp20@gmail.com](mailto:anacp20@gmail.com)  
+- **GitHub:** [@IsabelCasPe](https://github.com/IsabelCasPe)  
+- **Site:** [isabelcaspe.github.io](https://isabelcaspe.github.io/)  
+- **Repositório:** [github.com/IsabelCasPe/Fourier-EDP-Solutions](https://github.com/IsabelCasPe/Fourier-EDP-Solutions)
+
+🌟 **Gostou? Deixe uma estrela no repositório e continue aprendendo com paixão!** 🌟
+
+- [Website SuperProf Isabel](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-universitario.html)
+
