@@ -9,7 +9,7 @@ Este repositório explora a aplicação de métodos de análise de Fourier a Equ
 - [Heat Equation Problems](Heat%20Equation%20Problems.pdf)
 - [Wave Equation Problems](Wave%20Equation%20Problems.pdf)
 - [Laplace Equation Problems](Laplace%20Equation%20Problems.pdf)
-- [Boundary Value Problems](Boundary%20Value%20Problems.pdf)
+- [Boundary_Value_Problems](Boundary_Value_Problems.pdf)
 - [Fourier Transform Applications](Fourier%20Transform%20Applications.pdf)
 
 ---
