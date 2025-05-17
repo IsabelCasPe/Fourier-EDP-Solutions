@@ -17,6 +17,7 @@ Este repositório explora a aplicação de métodos de análise de Fourier a Equ
 ## 📐 How to Use
 - Todos os exercícios estão em formato **LaTeX**.
 - Simulações e gráficos são gerados usando **Python**.
+- [ExemplosEDPs.ipynb](ExemplosEDPs.ipynb)
 
 ---
 
