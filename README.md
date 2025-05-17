@@ -9,11 +9,11 @@ Este repositório explora a aplicação de métodos de análise de Fourier a Equ
 São apresentadas soluções para problemas de valor inicial e de contorno, utilizando séries e transformadas de Fourier, com destaque para deduções analíticas e simulações numéricas.
 📚 Organização:
 ## Contents
-- [Heat Equation Problems](#heat-equation-problems)
-- [Wave Equation Problems](#wave-equation-problems)
-- [Laplace Equation Problems](#laplace-equation-problems)
-- [Boundary Value Problems](#boundary-value-problems)
-- [Fourier Transform Applications](#fourier-transform-applications)
+- [Heat Equation Problems](Head Equation Problems.pdf)
+- [Wave Equation Problems](Wave Equation Problems.pdf)
+- [Laplace Equation Problems](Laplace Equation Problems.pdf)
+- [Boundary Value Problems](Boundary Value Problems.pdf)
+- [Fourier Transform Applications](Fourier Transform Applications.pdf)
 
 ## How to Use
 - All solutions are presented in LaTeX format.
