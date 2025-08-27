@@ -46,5 +46,6 @@ Este repositório é dedicado aos meus alunos, cuja curiosidade e dedicação in
 
 ## 🌐 Outros Links
 - [Website SuperProf Isabel](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-universitario.html)
-
+---
+   MIT License © 2025 Ana Isabel Castillo
 
