@@ -48,4 +48,13 @@ Este repositório é dedicado aos meus alunos, cuja curiosidade e dedicação in
 - [Website SuperProf Isabel](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-universitario.html)
 ---
    MIT License © 2025 Ana Isabel Castillo
+---
+
+## Inspiration.
+> "Nas ondas de Fourier, as EDPs revelam a estrutura do universo @FourierEDPSolutions onde o espectro transforma o caos em harmonia matemática." 🌊 ∫ 📊 🎼
+> Copyright © 2025 Prof. Ana Isabel C.
+
+---
+   
+   
 
