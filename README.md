@@ -4,6 +4,18 @@
 Criado pela **Prof. Ana Isabel Castillo**, este repositório oferece uma coleção de **materiais didáticos** para alunos, com foco em **Matemática**, **Física** e suas aplicações em **Finanças** e **Engenharia**. Inclui **notebooks Jupyter** e **resoluções em PDF**, com exercícios práticos, revisões temáticas e desafios que estimulam o raciocínio lógico, a autonomia e a excelência acadêmica.
 
 Este repositório explora a aplicação de métodos de análise de Fourier a Equações Diferenciais Parciais (EDPs) clássicas, como a Equação do Calor, Equação da Onda e Equação de Laplace. As soluções incluem tanto deduções analíticas quanto simulações numéricas, usando séries e transformadas de Fourier para resolver problemas de valor inicial e de contorno.
+---
+## EDP — Visualizações
+
+### 🌊 Análise de Fourier
+*Decomposição em modos senoidais para resolver EDPs lineares por separação de variáveis (séries/transformadas de Fourier).*
+![Fourier](fourier_animation_quantum.gif)
+
+### 🧩 Equação de Laplace \(\nabla^{2}u=0\)
+*Soluções harmônicas determinadas por condições de contorno; suavização e princípio do máximo.*
+![Laplace](laplace_animation_quantum.gif)
+
+---
 
 ## 📚 Contents
 - [Heat_Equation_Problems](Heat_Equation_Problems.pdf)
