@@ -9,7 +9,7 @@
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
 
 ---
-## Fourier and PDE Solutions: Applications in Heat, Wave, and Laplace Equations 
+## Fourier and PDE Solutions: Applications in Heat, Wave, and Laplace Equations  
 
 🌟 **Bem-vindo ao Repositório de Soluções de EDPs e Fourier** 🌟  
 Criado pela **Prof. Ana Isabel Castillo**, este repositório oferece uma coleção de **materiais didáticos** para alunos, com foco em **Matemática**, **Física** e suas aplicações em **Finanças** e **Engenharia**. Inclui **notebooks Jupyter** e **resoluções em PDF**, com exercícios práticos, revisões temáticas e desafios que estimulam o raciocínio lógico, a autonomia e a excelência acadêmica.
