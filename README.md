@@ -19,6 +19,11 @@ Este repositório explora a aplicação de métodos de análise de Fourier a Equ
 ---
 ## EDP — Visualizações
 
+## Fourier - Contínua | Discreta (FFT) | Quântica (QFT)
+![FourierCDQ](fourierCDQ.gif)
+
+---
+
 ### 🌊 Análise de Fourier
 *Decomposição em modos senoidais para resolver EDPs lineares por separação de variáveis (séries/transformadas de Fourier).*
 ![Fourier](fourier_animation_quantum.gif)
