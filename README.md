@@ -1,5 +1,5 @@
 <!-- HERO -->
-# Arte & Ciência em Movimento — Matemática Viva 💎🧮✨ 
+# Arte & Ciência em Movimento - Matemática Viva 💎🧮✨ 
 [![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -17,7 +17,7 @@ Criado pela **Prof. Ana Isabel Castillo**, este repositório oferece uma coleç�
 
 Este repositório explora a aplicação de métodos de análise de Fourier a Equações Diferenciais Parciais (EDPs) clássicas, como a Equação do Calor, Equação da Onda e Equação de Laplace. As soluções incluem tanto deduções analíticas quanto simulações numéricas, usando séries e transformadas de Fourier para resolver problemas de valor inicial e de contorno.
 ---
-## EDP — Visualizações
+## EDP - Visualizações
 
 ## Fourier - Contínua | Discreta (FFT) | Quântica (QFT)
 ![FourierCDQ](fourierCDQ.gif)
