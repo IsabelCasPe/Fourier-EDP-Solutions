@@ -20,7 +20,12 @@ Este repositório explora a aplicação de métodos de análise de Fourier a Equ
 ## EDP - Visualizações
 
 ## Fourier - Contínua | Discreta (FFT) | Quântica (QFT)
+
 ![FourierCDQ](fourierCDQ.gif)
+
+---
+
+![Exemplo 03](fourier_transformsEx03.gif)
 
 ---
 
