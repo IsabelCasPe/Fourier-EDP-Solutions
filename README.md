@@ -21,13 +21,10 @@ Este repositório explora a aplicação de métodos de análise de Fourier a Equ
 
 ## Fourier - Contínua | Discreta (FFT) | Quântica (QFT)
 
-![FourierCDQ](fourierCDQ.gif)
+- ![FourierCDQ](fourierCDQ.gif)
 
----
+- ![Exemplo 03](fourier_transformsEx03.gif)
 
-![Exemplo 03](fourier_transformsEx03.gif)
-
----
 
 ### 🌊 Análise de Fourier
 *Decomposição em modos senoidais para resolver EDPs lineares por separação de variáveis (séries/transformadas de Fourier).*
